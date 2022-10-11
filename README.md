@@ -1,5 +1,7 @@
 # [Aviary Tech Masterplan](https://hackmd.io/lK0rJtksTiC4cua_DYu4Lw)
 
+Aviary Tech is building a more equitable internet. This means allowing:
+
 > autonomous control of authentic data and relationships
 > 
 > \- Timothy Ruff
