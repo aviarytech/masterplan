@@ -4,6 +4,17 @@
 > 
 > \- Timothy Ruff
 
+We have slightly reworded the [Trust Over IP Stack](https://trustoverip.org/toip-model/) to align with the way that Aviary Tech is approaching building decentralized identity applications using Verifiable Credentials (VCs) and Decentralized Identifiers (DIDs).
+
+This masterplan outlines the technology products, specifications and libraries being built and deployed by Aviary Tech in order to deliver autonomous control of authentic data and relationships to the world.
+
+**Aviary Tech Stack**
+
+1. [Authentic Data Application Layer](https://github.com/aviarytech/masterplan/tree/master#authentic-data-application-layer)
+2. [Authentic Data Layer](https://github.com/aviarytech/masterplan/tree/master#authentic-data-layer)
+3. [Trusted Communication Layer](https://github.com/aviarytech/masterplan/tree/master#trusted-communication-layer)
+4. [Coherence Layer](https://github.com/aviarytech/masterplan/tree/master#coherence-layer)
+
 
 ## Authentic Data Application Layer
 
@@ -47,7 +58,7 @@
 * [OpenID for Verifiable Credential Issuance (OIDC4VCI)](https://openid.net/specs/openid-4-verifiable-credential-issuance-1_0.html)
 ### [Verifiable Credentials API (VC-API)](https://w3c-ccg.github.io/vc-api/)
 
-## Decentralized Identifier Layer
+## Coherence Layer
 
 ### [W3C Decentralized Identifiers (DIDs)](https://www.w3.org/TR/did-core/)
 
