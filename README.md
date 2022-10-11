@@ -1,4 +1,4 @@
-# Aviary Tech Masterplan
+# [Aviary Tech Masterplan](https://hackmd.io/lK0rJtksTiC4cua_DYu4Lw)
 
 "autonomous control of authentic data and relationships" - Timothy Ruff
 
