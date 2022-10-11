@@ -1,15 +1,22 @@
 # [Aviary Tech Masterplan](https://hackmd.io/lK0rJtksTiC4cua_DYu4Lw)
 
-"autonomous control of authentic data and relationships" - Timothy Ruff
+> autonomous control of authentic data and relationships
+> 
+> \- Timothy Ruff
 
 
 ## Authentic Data Application Layer
 
 ### [aviary.one](https://aviary.one)
 
-#### █████████.██████
-#### ██████████.███
-#### [1keep.com](https://1keep.com)
+#### Verification Services
+* █████████.██████
+
+#### Issuance Services
+* ██████████.███
+
+#### Holder Services
+* [1keep.com](https://1keep.com)
 
 ## Authentic Data Layer
 
