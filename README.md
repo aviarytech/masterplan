@@ -66,4 +66,4 @@ This masterplan outlines the technology products, specifications and libraries b
 
 * [did:key](https://w3c-ccg.github.io/did-method-key/)
 * [did:web](https://w3c-ccg.github.io/did-method-web/)
-* [did:peer](https://identity.foundation/peer-did-method-spec/)
+* [did:jwk](https://github.com/quartzjer/did-jwk/blob/main/spec.md)
